@@ -117,6 +117,8 @@ body {
 	border-radius: 25px;
 }
 input {
+	--webkit-appearance: none;
+	--moz-appearance: none;
 	appearance: none;
 }
 .attribution {
