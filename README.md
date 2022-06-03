@@ -27,13 +27,15 @@ Users should be able to:
 
 ### Screenshot
 
-![](./thankyouState.png)
+-    Rating State
 ![](./ratingState.png)
+-    Thank you State
+![](./thankyouState.png)
 
 ### Links
 
--    Solution URL: [Add solution URL here](https://your-solution-url.com)
--    Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-    Solution URL: (https://github.com/esdra00/interactive-rating-component.git)
+-    Live Site URL: (https://esdra00.github.io/interactive-rating-component/)
 
 ## My process
 
